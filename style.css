@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    overflow-x: hidden;
+    background-color: rgba(238, 205, 205, 0.801);
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+  color: teal;
+}
+h3 {
+    text-align: center;
+    padding: 10px;
+}
+
+p {
+    text-align: justify;
+    padding: 10px;
+    border: 1px solid silver;
+    border-radius: 2px;
+}
+.sub-container-text1 {
+    background-color: rgb(170, 223, 223);
+}
+.sub-container-text2 {
+    background-color: hsl(29, 64%, 58%);
+}
+.sub-container-text3 {
+    background-color: rgb(190, 228, 130);
+}
+.container {
+    
+    padding: 50px 5px;
+
+    height: 100%;
+    width: 100%;
+    margin: 0 5px;
+   
+}
+
+.sub-container-tittle{
+    color: brown;
+
+}
