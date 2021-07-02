@@ -13,10 +13,11 @@ h1 {
   padding: 10px;
   color: teal;
 }
-h3 {
+h3 , h6{
     text-align: center;
     padding: 10px;
 }
+
 
 p {
     text-align: justify;
