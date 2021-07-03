@@ -31,7 +31,9 @@ h2 {
     padding: 10px;
 }
 
-
+.fatu {
+    background-color: rgb(11, 141, 173);
+}
 p {
     text-align: justify;
     padding: 10px;
